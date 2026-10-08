@@ -1,0 +1,23 @@
+# Memo metadata. Fields marked "editors" are filled in by the editors
+# or by the automated workflows; please do not edit them.
+id: "SV-2026-002"  # editors: assigned on acceptance
+series: "Science Verification"             # editors: set from your submission request
+submission_request: 4 # editors: number of your request in memo-intake
+title: "Test memo: flux calibration stability"
+version: "2.0"
+authors:
+  - name: "Belen Placeholder"
+    affiliation: "Example Observatory"
+    orcid: null
+    corresponding: true
+abstract: >
+  This is a fictitious memo used to test the publication workflow.
+keywords: [demo, test]
+resource_type: technicalnote
+license: CC-BY-4.0
+publication_date: "2026-10-08"  # editors: set on publication
+doi: "10.5072/zenodo.618207"  # editors: set on publication
+concept_doi: "10.5072/zenodo.618184"  # editors: set on publication
+zenodo_record: 618207  # editors: set on publication
+published_version: "2.0"  # editors: set on publication
+status: published  # editors
